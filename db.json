@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "JOHN DOE",
+      "Age": 29,
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "name": "Smith John",
+      "Age": 30,
+      "email": "smithj@gmail.com"
+    },
+    {
+      "name": "Gracy Abraham",
+      "Age": 25,
+      "email": "gracya@gmail.com"
+    },
+    {
+      "name": "HANNA",
+      "Age": 32,
+      "email": "hannab@gmail.com"
+    },
+    {
+      "name": "SARAH GRAY",
+      "Age": 20,
+      "email": "sarahgr@gmail.com"
+    }
+  ]
+}
